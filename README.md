@@ -11,4 +11,4 @@ const firstPackage = require('iamfarooqi')
 
 console.log(firstPackage('iamfarooqi'))
 
-if you pass 'iamfarooqi' it will return true other wise it will return false
+if you pass 'iamfarooqi' it will return true other wise it will return false.
