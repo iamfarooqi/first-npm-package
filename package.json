@@ -1,0 +1,23 @@
+{
+  "name": "iamfarooqi",
+  "version": "1.0.0",
+  "description": "first npm package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamfarooqi/first-npm-package.git"
+  },
+  "keywords": [
+    "iamfarooqi"
+  ],
+  "author": "iamfarooqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamfarooqi/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/iamfarooqi/first-npm-package#readme"
+}
